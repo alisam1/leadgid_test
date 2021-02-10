@@ -26,8 +26,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-    h1{
-        color: #333333;
+  #page_contact > .container
+   {
+     height: 90vh;
+   }
+
+  h1{
+      color: #333333;
     }
 </style>>
 

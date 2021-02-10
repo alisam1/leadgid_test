@@ -26,7 +26,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-    h1{
+  #page_shop > .container
+   {
+     height: 90vh;
+   }
+
+  h1{
        color: #333333;
     }
 </style>>
